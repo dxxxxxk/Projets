@@ -1,0 +1,3 @@
+Pour pointer intra.42.fr sur l'adresse 46.19.122.85 la commande est: 
+echo "intra.42.fr 46.19.122.85" >> /etc/hosts
+Cependant il faut les droits d'administrateur.

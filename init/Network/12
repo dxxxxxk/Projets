@@ -1,0 +1,3 @@
+ipconfig getpacket en0 | grep server_identifier
+
+#command host + ip pour verifier

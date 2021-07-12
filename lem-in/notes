@@ -1,0 +1,27 @@
+Minimum requis pour que le programme marche:
+
+Il faut qu’il y ait start et end et le chemin le plus court existe
+Ordre: 
+        nb de fourmis 
+        Les salles 
+        Les tubes
+
+Noms de la fourmis -   salle dans laquelle elle va
+
+Erreurs:
+Si une salle a des liaisons mais pas de coordonnes
+
+erreur: peut etre utiliser perror sur read malloc....
+
+
+video sujet 42   2014: https://www.youtube.com/watch?v=lU_y6nEgF8M
+https://www.youtube.com/watch?v=w3Nl2XA0pxA
+https://www.youtube.com/watch?v=MczX0SM3I84
+
+check les chemins valides
+
+si le chemin est invalide mettre 100 dans le tableau de passage supprimer le chemin
+et si le chemin le fini pas par start supprimer le chemin
+
+
+bfs inverse, chenin a ecrire dans l'autre sens, et comparer
